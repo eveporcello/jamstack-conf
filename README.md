@@ -39,6 +39,7 @@ Thanks for being part of the GraphQL workshop! I'm really glad you're here. This
 ### Building Servers with Apollo Server / Resolvers
 
 - [PWMCT](https://github.com/eveporcello/pwmct)
+- [Pet Library API](https://github.com/moonhighway/pet-library)
 
 ### Assessing GraphQL Ecosystem Tools
 
