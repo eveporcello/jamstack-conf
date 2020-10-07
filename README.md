@@ -2,18 +2,25 @@
 
 Thanks for being part of the GraphQL workshop! I'm really glad you're here. This repo contains links to all of the files you'll need for today's course.
 
-## Instructor Info
+## Timing ⏰
+
+- 9:00AM Pacific - Start
+- 10:15-10:30 Pacific - Break
+- 12:00 - 12:15 Pacific - Break
+- 1:00PM Pacific - End
+
+## Instructor Info 👩🏻‍🏫
 
 - **Eve Porcello**: [Twitter](https://twitter.com/eveporcello) | [Email](mailto:eve@moonhighway.com)
 - **Moon Highway Training**: [Moon Highway Website](https://www.moonhighway.com) | [Mailing List](http://bit.ly/moonhighway) | [Articles](https://www.moonhighway.com/articles)
 
 ## Topics
 
-- [Understanding the Query Language]()
-- [Designing Schemas]()
-- [Building Servers with Apollo Server]()
-- [Writing Resolver Functions]()
-- [Assessing GraphQL Ecosystem Tools]()
+- [Understanding the Query Language](https://github.com/eveporcello/jamstack-conf#understanding-the-query-language)
+- [Designing Schemas](https://github.com/eveporcello/jamstack-conf#designing-schemas)
+- [Building Servers with Apollo Server](https://github.com/eveporcello/jamstack-conf#building-servers-with-apollo-server--resolvers)
+- [Writing Resolver Functions](https://github.com/eveporcello/jamstack-conf#building-servers-with-apollo-server--resolvers)
+- [Assessing GraphQL Ecosystem Tools](https://github.com/eveporcello/jamstack-conf#building-servers-with-apollo-server--resolvers)
 
 ### Understanding the Query Language
 
